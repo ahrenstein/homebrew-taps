@@ -4,8 +4,7 @@ cask 'openra-playtest' do
 
   url "https://github.com/OpenRA/OpenRA/releases/download/playtest-#{version}/OpenRA-playtest-#{version}.dmg"
   name 'openra-playtest'
-  homepage 'https://github.com/Inq8/CAmod'
-  appcast 'https://github.com/gatekeep/CAmod/releases.atom'
+  homepage 'https://www.openra.net/'
   auto_updates false
   conflicts_with cask: 'openra'
 

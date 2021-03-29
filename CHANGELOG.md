@@ -5,6 +5,11 @@ A list of all the changes made to this repo
 Version 1.0.0
 -------------
 
+1. Fixed saml2aws Duo
+
+Version 1.0.0
+-------------
+
 1. Initial Release of repository
 2. Formula Changes
     1. Added temporary saml2aws Formula for JumpCloud/Duo support

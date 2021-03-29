@@ -11,7 +11,7 @@ To list all of the formula/casks in this repo you can run
 Current Formulas
 ----------------
 1. [saml2aws-duo](https://github.com/Versent/saml2aws) - Temporary formula for Versent's saml2aws built with Duo support for JumpCloud.  
-**This will go away when [this PR](https://github.com/Versent/saml2aws/pull/489) merges.**
+**This will go away when [this PR](https://github.com/Versent/saml2aws/pull/626) merges.**
 
 Current Casks
 -------------

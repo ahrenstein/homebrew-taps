@@ -2,7 +2,7 @@ homebrew-taps: Changelog
 =====================================
 A list of all the changes made to this repo
 
-Version 1.0.0
+Version 1.0.1
 -------------
 
 1. Fixed saml2aws Duo
